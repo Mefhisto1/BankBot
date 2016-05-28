@@ -1,0 +1,25 @@
+{
+  "name": "bankbot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mefhisto1/BankBot.git"
+  },
+  "author": "Zoran Lisovac & Branko Gvoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mefhisto1/BankBot/issues"
+  },
+  "homepage": "https://github.com/Mefhisto1/BankBot#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "fbgraph": "^1.2.0",
+    "node-wit": "^3.3.2",
+    "request": "^2.72.0"
+  }
+}
